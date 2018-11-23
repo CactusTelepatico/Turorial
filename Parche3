@@ -1,0 +1,15 @@
+### Eclipse Workspace Patch 1.0
+#P HolaMundo
+diff --git src/HolaMundo.java src/HolaMundo.java
+index af253c3..e6a90c6 100644
+--- src/HolaMundo.java
++++ src/HolaMundo.java
+@@ -2,6 +2,8 @@
+ public class HolaMundo {
+ 	public static void main(String[] args) {
+ 		System.out.println("Hola Mundo");	
++		System.out.println("Hola Mundo 2");
++		System.out.println("Hola Mundo 3");
+ 	}
+ 
+ }
